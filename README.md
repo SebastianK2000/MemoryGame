@@ -63,7 +63,6 @@ ENG
 
 # Memory game in HTML, CSS and JavaScript
 
-EN
 
 A simple Memory game written in HTML, CSS and JavaScript that involves revealing cards to find pairs of colors. The player's task is to match the cards in the shortest possible time.
 
