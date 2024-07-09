@@ -1,5 +1,10 @@
 # Gra Memory w HTML, CSS i JavaScript
 
+## Link to the game:
+
+https://game-memory-in-js.netlify.app
+
+
 PL
 
 Prosta gra Memory napisana w HTML, CSS i JavaScript, która polega na odkrywaniu kart w celu znalezienia par kolorów. Zadaniem gracza jest dopasować karty w jak najkrótszym czasie.
